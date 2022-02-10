@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="iv_foto">iv_foto</string>
+    <string name="nome_do_contato">Nome do Contato</string>
+    <string name="ex_fone">(00)0000-0000</string>
+    <string name="menu_1">Menu_1</string>
+    <string name="menu_2">Menu_2</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+</resources>
